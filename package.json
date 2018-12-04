@@ -1,0 +1,41 @@
+{
+  "name": "nut_nod",
+  "version": "1.0.0",
+  "description": "This is the details description of node js code and porgramming in application dev environment for novice to Pro.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ROHAN-TANDEL/node_nut.git"
+  },
+  "keywords": [
+    "node",
+    "nut",
+    "novice",
+    "pro",
+    "beginer",
+    "crud",
+    "npm",
+    "package",
+    "express",
+    "fast",
+    "mongo",
+    "mysql",
+    "data"
+  ],
+  "author": "Rohan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ROHAN-TANDEL/node_nut/issues"
+  },
+  "homepage": "https://github.com/ROHAN-TANDEL/node_nut#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.7"
+  }
+}
